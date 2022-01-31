@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://telegra.ph/file/b86e695af6da1b7137c08.jpg">
 </p>
 
-# YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/Yone_Robot)
+# ShivanshuRobot
+Me On Telegram [🖤✯ꜱ⃟нͥινͣαͫиѕнυ✯🖤](https://t.me/shivanshudeo)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/noob-kittu/YoneRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/champujis12/thekedar"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
